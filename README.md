@@ -1,1 +1,0 @@
-this is the readme file for the project am doing which is entitled AirBnB the console. I will give the entire description once its done.
